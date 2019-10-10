@@ -11,31 +11,31 @@
 </td>
 <td>
 	<a href="" style="text-align: center; color: #000!important">
-		<img src="" width="96px"/>
+		<img src="https://via.placeholder.com/96x128?text=BOOK+COVER" width="96px"/>
 		<div>BOOK NAME</div>
 	</a>
 </td>
 <td>
 	<a href="" style="text-align: center; color: #000!important">
-		<img src="" width="96px"/>
+		<img src="https://via.placeholder.com/96x128?text=BOOK+COVER" width="96px"/>
 		<div>BOOK NAME</div>
 	</a>
 </td>
 <td>
 	<a href="" style="text-align: center; color: #000!important">
-		<img src="" width="96px"/>
+		<img src="https://via.placeholder.com/96x128?text=BOOK+COVER" width="96px"/>
 		<div>BOOK NAME</div>
 	</a>
 </td>
 <td>
 	<a href="" style="text-align: center; color: #000!important">
-		<img src="" width="96px"/>
+		<img src="https://via.placeholder.com/96x128?text=BOOK+COVER" width="96px"/>
 		<div>BOOK NAME</div>
 	</a>
 </td>
 <td>
 	<a href="" style="text-align: center; color: #000!important">
-		<img src="" width="96px"/>
+		<img src="https://via.placeholder.com/96x128?text=BOOK+COVER" width="96px"/>
 		<div>BOOK NAME</div>
 	</a>
 </td>
@@ -43,37 +43,37 @@
 <tr>
 <td>
 	<a href="" style="text-align: center; color: #000!important">
-		<img src="" width="96px"/>
+		<img src="https://via.placeholder.com/96x128?text=BOOK+COVER" width="96px"/>
 		<div>BOOK NAME</div>
 	</a>
 </td>
 <td>
 	<a href="" style="text-align: center; color: #000!important">
-		<img src="" width="96px"/>
+		<img src="https://via.placeholder.com/96x128?text=BOOK+COVER" width="96px"/>
 		<div>BOOK NAME</div>
 	</a>
 </td>
 <td>
 	<a href="" style="text-align: center; color: #000!important">
-		<img src="" width="96px"/>
+		<img src="https://via.placeholder.com/96x128?text=BOOK+COVER" width="96px"/>
 		<div>BOOK NAME</div>
 	</a>
 </td>
 <td>
 	<a href="" style="text-align: center; color: #000!important">
-		<img src="" width="96px"/>
+		<img src="https://via.placeholder.com/96x128?text=BOOK+COVER" width="96px"/>
 		<div>BOOK NAME</div>
 	</a>
 </td>
 <td>
 	<a href="" style="text-align: center; color: #000!important">
-		<img src="" width="96px"/>
+		<img src="https://via.placeholder.com/96x128?text=BOOK+COVER" width="96px"/>
 		<div>BOOK NAME</div>
 	</a>
 </td>
 <td>
 	<a href="" style="text-align: center; color: #000!important">
-		<img src="" width="96px"/>
+		<img src="https://via.placeholder.com/96x128?text=BOOK+COVER" width="96px"/>
 		<div>BOOK NAME</div>
 	</a>
 </td>
