@@ -1,5 +1,9 @@
 # EKONOMİ 101
 
-<div id="container" width="100%" style="text-align: center;">
-    <img src="https://cdn1.dokuzsoft.com/u/pelikankitabevi/img/c/0/0/0000990-ekonomi-101-jpeg-1561733319.jpg" width="256px"/>
-</div>
+I started reading this book 2nd time on 10.10.2019. Here below you may find my daily basis progress for this book.
+
+| Book                           | Details          |
+| -------------------------------|:----------------:|
+| ![ekonomi 101 cover][url]      | **Date:** 10.10.2019<br/>**Progress:** 25/252 |
+
+[url]: https://cdn1.dokuzsoft.com/u/pelikankitabevi/img/c/0/0/0000990-ekonomi-101-jpeg-1561733319.jpg
