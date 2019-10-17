@@ -1,6 +1,6 @@
 # EKONOMİ 101
 
-I started reading this book 2nd time on 10.10.2019. Here below you may find my daily basis progress for this book.
+I started reading this book 2nd time on 14.10.2019. Here below you may find my daily basis progress for this book.
 
 | Book                           | Details          |
 | -------------------------------|:----------------:|
