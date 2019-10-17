@@ -11,8 +11,8 @@
 </td>
 <td>
 	<a href="" style="text-align: center; color: #000!important">
-		<img src="https://via.placeholder.com/96x128?text=BOOK+COVER" width="96px"/>
-		<div>BOOK NAME</div>
+		<img src="https://images-na.ssl-images-amazon.com/images/I/51W25NBDLQL._SX379_BO1,204,203,200_.jpg" width="96px"/>
+		<div>Effective Javascript</div>
 	</a>
 </td>
 <td>
