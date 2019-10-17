@@ -1,4 +1,4 @@
-# EKONOMİ 101
+# Effective Javascript
 
 I started reading this book 2nd time on 14.10.2019. Here below you may find my daily basis progress for this book.
 
